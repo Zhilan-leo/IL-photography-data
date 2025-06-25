@@ -8,31 +8,41 @@ on:
 jobs:
   convert:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
 
-    - name: Install dependencies
-      run: |
-        pip install pandas
+      - name: Install dependencies
+        run: pip install pandas
 
-    - name: Convert JSON to CSV
-      run: |
-        python convert.py
+      - name: Convert JSON to CSV
+        run: |
+          python <<EOF
+          import json, pandas as pd
+          with open('ratings.json', encoding='utf-8') as f:
+              data = json.load(f)
+          rows = []
+          for entry in data:
+              timestamp = entry["timestamp"]
+              for idx, rating in enumerate(entry["ratings"], 1):
+                  rows.append([timestamp, idx, *rating])
+          df = pd.DataFrame(rows, columns=["Timestamp", "ImageID", "Q1", "Q2", "Q3", "Q4"])
+          df.to_csv("ratings.csv", index=False)
+          EOF
 
-    - name: Commit and push CSV
-      env:
-        TOKEN: ${{ secrets.GH_PAT }}
-      run: |
-        git config --global user.name 'GitHub Action'
-        git config --global user.email 'action@github.com'
-        git remote set-url origin https://x-access-token:${TOKEN}@github.com/Zhilan-leo/IL-photography-data.git
-        git add ratings.csv
-        git commit -m "Auto update ratings.csv" || echo "No changes to commit"
-        git push origin main
+      - name: Commit and Push
+        env:
+          TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/Zhilan-leo/IL-photography-data.git
+          git add ratings.csv
+          git commit -m "Auto update ratings.csv" || echo "No changes to commit"
+          git push origin main
+
