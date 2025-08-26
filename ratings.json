@@ -19934,5 +19934,901 @@
       0,
       0
     ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 1,
+    "rankings": [
+      {
+        "img": 1,
+        "rank": null
+      },
+      {
+        "img": 2,
+        "rank": null
+      },
+      {
+        "img": 3,
+        "rank": null
+      },
+      {
+        "img": 4,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 2,
+    "rankings": [
+      {
+        "img": 5,
+        "rank": null
+      },
+      {
+        "img": 6,
+        "rank": null
+      },
+      {
+        "img": 7,
+        "rank": null
+      },
+      {
+        "img": 8,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 3,
+    "rankings": [
+      {
+        "img": 9,
+        "rank": null
+      },
+      {
+        "img": 10,
+        "rank": null
+      },
+      {
+        "img": 11,
+        "rank": null
+      },
+      {
+        "img": 12,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 4,
+    "rankings": [
+      {
+        "img": 13,
+        "rank": null
+      },
+      {
+        "img": 14,
+        "rank": null
+      },
+      {
+        "img": 15,
+        "rank": null
+      },
+      {
+        "img": 16,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 5,
+    "rankings": [
+      {
+        "img": 17,
+        "rank": null
+      },
+      {
+        "img": 18,
+        "rank": null
+      },
+      {
+        "img": 19,
+        "rank": null
+      },
+      {
+        "img": 20,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 6,
+    "rankings": [
+      {
+        "img": 21,
+        "rank": null
+      },
+      {
+        "img": 22,
+        "rank": null
+      },
+      {
+        "img": 23,
+        "rank": null
+      },
+      {
+        "img": 24,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 7,
+    "rankings": [
+      {
+        "img": 25,
+        "rank": null
+      },
+      {
+        "img": 26,
+        "rank": null
+      },
+      {
+        "img": 27,
+        "rank": null
+      },
+      {
+        "img": 28,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 8,
+    "rankings": [
+      {
+        "img": 29,
+        "rank": null
+      },
+      {
+        "img": 30,
+        "rank": null
+      },
+      {
+        "img": 31,
+        "rank": null
+      },
+      {
+        "img": 32,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 9,
+    "rankings": [
+      {
+        "img": 33,
+        "rank": null
+      },
+      {
+        "img": 34,
+        "rank": null
+      },
+      {
+        "img": 35,
+        "rank": null
+      },
+      {
+        "img": 36,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 10,
+    "rankings": [
+      {
+        "img": 37,
+        "rank": null
+      },
+      {
+        "img": 38,
+        "rank": null
+      },
+      {
+        "img": 39,
+        "rank": null
+      },
+      {
+        "img": 40,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 11,
+    "rankings": [
+      {
+        "img": 41,
+        "rank": null
+      },
+      {
+        "img": 42,
+        "rank": null
+      },
+      {
+        "img": 43,
+        "rank": null
+      },
+      {
+        "img": 44,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 12,
+    "rankings": [
+      {
+        "img": 45,
+        "rank": null
+      },
+      {
+        "img": 46,
+        "rank": null
+      },
+      {
+        "img": 47,
+        "rank": null
+      },
+      {
+        "img": 48,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 13,
+    "rankings": [
+      {
+        "img": 49,
+        "rank": null
+      },
+      {
+        "img": 50,
+        "rank": null
+      },
+      {
+        "img": 51,
+        "rank": null
+      },
+      {
+        "img": 52,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 14,
+    "rankings": [
+      {
+        "img": 53,
+        "rank": null
+      },
+      {
+        "img": 54,
+        "rank": null
+      },
+      {
+        "img": 55,
+        "rank": null
+      },
+      {
+        "img": 56,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 15,
+    "rankings": [
+      {
+        "img": 57,
+        "rank": null
+      },
+      {
+        "img": 58,
+        "rank": null
+      },
+      {
+        "img": 59,
+        "rank": null
+      },
+      {
+        "img": 60,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 16,
+    "rankings": [
+      {
+        "img": 61,
+        "rank": null
+      },
+      {
+        "img": 62,
+        "rank": null
+      },
+      {
+        "img": 63,
+        "rank": null
+      },
+      {
+        "img": 64,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 17,
+    "rankings": [
+      {
+        "img": 65,
+        "rank": null
+      },
+      {
+        "img": 66,
+        "rank": null
+      },
+      {
+        "img": 67,
+        "rank": null
+      },
+      {
+        "img": 68,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 18,
+    "rankings": [
+      {
+        "img": 69,
+        "rank": null
+      },
+      {
+        "img": 70,
+        "rank": null
+      },
+      {
+        "img": 71,
+        "rank": null
+      },
+      {
+        "img": 72,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 19,
+    "rankings": [
+      {
+        "img": 73,
+        "rank": null
+      },
+      {
+        "img": 74,
+        "rank": null
+      },
+      {
+        "img": 75,
+        "rank": null
+      },
+      {
+        "img": 76,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 20,
+    "rankings": [
+      {
+        "img": 77,
+        "rank": null
+      },
+      {
+        "img": 78,
+        "rank": null
+      },
+      {
+        "img": 79,
+        "rank": null
+      },
+      {
+        "img": 80,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 21,
+    "rankings": [
+      {
+        "img": 81,
+        "rank": null
+      },
+      {
+        "img": 82,
+        "rank": null
+      },
+      {
+        "img": 83,
+        "rank": null
+      },
+      {
+        "img": 84,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 22,
+    "rankings": [
+      {
+        "img": 85,
+        "rank": null
+      },
+      {
+        "img": 86,
+        "rank": null
+      },
+      {
+        "img": 87,
+        "rank": null
+      },
+      {
+        "img": 88,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 23,
+    "rankings": [
+      {
+        "img": 89,
+        "rank": null
+      },
+      {
+        "img": 90,
+        "rank": null
+      },
+      {
+        "img": 91,
+        "rank": null
+      },
+      {
+        "img": 92,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 24,
+    "rankings": [
+      {
+        "img": 93,
+        "rank": null
+      },
+      {
+        "img": 94,
+        "rank": null
+      },
+      {
+        "img": 95,
+        "rank": null
+      },
+      {
+        "img": 96,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 25,
+    "rankings": [
+      {
+        "img": 97,
+        "rank": null
+      },
+      {
+        "img": 98,
+        "rank": null
+      },
+      {
+        "img": 99,
+        "rank": null
+      },
+      {
+        "img": 100,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 26,
+    "rankings": [
+      {
+        "img": 101,
+        "rank": null
+      },
+      {
+        "img": 102,
+        "rank": null
+      },
+      {
+        "img": 103,
+        "rank": null
+      },
+      {
+        "img": 104,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 27,
+    "rankings": [
+      {
+        "img": 105,
+        "rank": null
+      },
+      {
+        "img": 106,
+        "rank": null
+      },
+      {
+        "img": 107,
+        "rank": null
+      },
+      {
+        "img": 108,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 28,
+    "rankings": [
+      {
+        "img": 109,
+        "rank": null
+      },
+      {
+        "img": 110,
+        "rank": null
+      },
+      {
+        "img": 111,
+        "rank": null
+      },
+      {
+        "img": 112,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 29,
+    "rankings": [
+      {
+        "img": 113,
+        "rank": null
+      },
+      {
+        "img": 114,
+        "rank": null
+      },
+      {
+        "img": 115,
+        "rank": null
+      },
+      {
+        "img": 116,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 30,
+    "rankings": [
+      {
+        "img": 117,
+        "rank": null
+      },
+      {
+        "img": 118,
+        "rank": null
+      },
+      {
+        "img": 119,
+        "rank": null
+      },
+      {
+        "img": 120,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 31,
+    "rankings": [
+      {
+        "img": 121,
+        "rank": null
+      },
+      {
+        "img": 122,
+        "rank": null
+      },
+      {
+        "img": 123,
+        "rank": null
+      },
+      {
+        "img": 124,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-08-26T13:06:18.155852",
+    "group": 32,
+    "rankings": [
+      {
+        "img": 125,
+        "rank": null
+      },
+      {
+        "img": 126,
+        "rank": null
+      },
+      {
+        "img": 127,
+        "rank": null
+      },
+      {
+        "img": 128,
+        "rank": null
+      }
+    ],
+    "ratings": [
+      4,
+      5,
+      4,
+      5
+    ]
   }
 ]
