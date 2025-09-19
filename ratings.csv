@@ -81,3 +81,33 @@ Timestamp,Participant,Answer,Group,Q1 Rank,Q1 Score,Q2 Rank,Q2 Score,Q3 Rank,Q3 
 2025-09-19T06:54:28.720493,dawei,0,28,"good,good,bad,medium",,"good,good,medium,medium",,"medium,medium,bad,medium",,"8,8,3,7",,
 2025-09-19T06:54:28.720493,dawei,0,29,"medium,good,medium,medium",,"good,good,good,good",,"medium,medium,medium,medium",,"6,8,6,6",,
 2025-09-19T06:54:28.720493,dawei,0,30,"good,medium,bad,bad",,"good,medium,medium,medium",,"good,medium,medium,medium",,"8,7,1,1",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,1,"medium,good,bad,bad",,"good,good,bad,medium",,"good,good,bad,medium",,"7,9,2,5",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,2,"medium,good,bad,medium",,"medium,good,good,medium",,"good,good,medium,bad",,"3,9,7,5",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,3,"good,medium,good,bad",,"medium,medium,good,good",,"medium,good,good,bad",,"7,5,9,3",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,4,"bad,bad,medium,good",,"bad,bad,bad,good",,"bad,bad,good,good",,"5,3,7,9",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,5,"medium,good,bad,bad",,"bad,good,bad,bad",,"medium,medium,bad,bad",,"7,9,5,3",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,6,"medium,medium,good,bad",,"medium,medium,bad,good",,"medium,bad,medium,good",,"3,5,7,9",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,7,"bad,good,good,medium",,"medium,good,good,bad",,"medium,medium,bad,good",,"3,9,7,5",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,8,"good,good,bad,bad",,"good,medium,bad,bad",,"good,medium,bad,good",,"9,7,3,5",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,9,"good,medium,bad,bad",,"medium,good,bad,bad",,"good,medium,bad,bad",,"7,9,5,3",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,10,"bad,medium,good,bad",,"bad,good,medium,bad",,"bad,medium,good,bad",,"5,9,7,3",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,11,"good,good,medium,bad",,"good,medium,bad,bad",,"good,medium,bad,bad",,"9,7,5,3",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,12,"good,medium,bad,medium",,"good,medium,bad,bad",,"medium,bad,bad,bad",,"9,6,5,2",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,13,"bad,good,bad,medium",,"bad,good,bad,medium",,"bad,good,bad,medium",,"5,9,3,7",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,14,"good,good,medium,medium",,"good,good,medium,medium",,"good,good,medium,bad",,"3,9,7,5",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,15,"medium,good,medium,medium",,"bad,medium,medium,bad",,"good,medium,medium,bad",,"5,7,9,3",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,16,"good,bad,bad,bad",,"good,bad,bad,medium",,"good,bad,bad,bad",,"9,4,3,3",,
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,17,"good,good,good,medium",,"medium,good,good,good",,"bad,medium,good,good",,"9,9,9,4",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,18,"good,medium,bad,bad",,"good,good,bad,bad",,"good,medium,good,bad",,"9,7,5,3",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,19,"medium,medium,good,bad",,"good,medium,medium,bad",,"good,medium,medium,bad",,"9,7,5,3",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,20,"medium,good,medium,bad",,"good,bad,good,bad",,"bad,good,medium,bad",,"5,9,6,2",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,21,"good,medium,good,bad",,"good,bad,medium,bad",,"good,bad,good,medium",,"9,5,7,3",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,22,"medium,medium,bad,bad",,"medium,good,bad,medium",,"medium,good,bad,bad",,"6,4,2,1",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,23,"good,medium,good,good",,"good,bad,good,good",,"good,medium,good,medium",,"9,8,6,9",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,24,"good,bad,good,medium",,"good,bad,bad,good",,"good,medium,good,medium",,"9,4,9,7",,N/A
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,25,"good,medium,medium,medium",,"medium,bad,good,good",,"good,bad,good,good",,"9,3,9,7",,3-4 share a good background connection
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,26,"bad,bad,good,medium",,"good,medium,good,medium",,"medium,bad,good,medium",,"7,3,9,5",,None of them look good for me in terms pf the aesthetics and composition
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,27,"good,bad,medium,medium",,"medium,good,good,medium",,"good,bad,good,medium",,"9,4,8,6",,only the first one looks good here
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,28,"good,medium,bad,medium",,"good,bad,medium,bad",,"good,bad,medium,good",,"9,4,7,9",,4 has a good composition
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,29,"good,good,good,medium",,"good,good,good,medium",,"good,good,good,bad",,"7,9,9,6",,1-3 have a good composition
+2025-09-19T09:32:04.811128,e.taisarinov@gmail.com,1,30,"good,medium,bad,medium",,"good,good,bad,medium",,"good,medium,bad,medium",,"9,7,3,5",,I really like the third photo due to its composition and object highliting
