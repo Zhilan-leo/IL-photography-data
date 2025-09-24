@@ -171,3 +171,33 @@ Timestamp,Participant,Answer,Group,Q1 Rank,Q1 Score,Q2 Rank,Q2 Score,Q3 Rank,Q3 
 2025-09-24T10:34:33.875977,wushuang,0,28,"medium,bad,bad,bad",,"good,good,bad,medium",,"good,bad,medium,medium",,"8,7,6,7",,
 2025-09-24T10:34:33.875977,wushuang,0,29,"good,medium,medium,good",,"medium,medium,medium,medium",,"medium,medium,medium,medium",,"8,6,7,9",,
 2025-09-24T10:34:33.875977,wushuang,0,30,"good,medium,bad,bad",,"good,good,bad,bad",,"good,medium,bad,bad",,"9,8,6,7",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,1,"good,medium,bad,bad",,"good,good,good,good",,"medium,medium,medium,medium",,"9,8,5,6",,"I suggest putting the outdoor and indoor shots before the mocap shots because I initially didn't understand what the instrutions mean by ""background logos"""
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,2,"medium,good,medium,good",,"good,good,good,good",,"medium,medium,medium,medium",,"5,9,6,9",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,3,"medium,medium,bad,medium",,"medium,medium,medium,medium",,"medium,medium,medium,medium",,"5,5,8,4",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,4,"bad,bad,bad,medium",,"medium,medium,bad,medium",,"medium,medium,medium,medium",,"3,3,2,4",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,5,"good,good,bad,bad",,"good,good,bad,bad",,"medium,medium,medium,medium",,"9,9,1,2",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,6,"good,good,good,medium",,"good,good,good,good",,"medium,medium,medium,medium",,"7,9,7,7",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,7,"good,good,good,bad",,"good,good,good,bad",,"medium,medium,medium,medium",,"8,7,9,3",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,8,"good,medium,bad,medium",,"good,medium,bad,medium",,"medium,medium,medium,medium",,"9,5,3,6",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,9,"good,medium,bad,bad",,"medium,medium,bad,bad",,"medium,medium,medium,medium",,"6,5,1,2",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,10,"medium,good,medium,bad",,"medium,good,medium,bad",,"medium,medium,medium,medium",,"6,8,5,2",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,11,"good,medium,good,medium",,"good,good,good,medium",,"medium,medium,medium,medium",,"9,6,9,4",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,12,"good,medium,bad,medium",,"good,good,bad,medium",,"medium,medium,medium,medium",,"7,7,2,5",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,13,"medium,good,medium,medium",,"good,good,medium,good",,"medium,medium,medium,medium",,"7,8,6,6",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,14,"medium,good,good,medium",,"bad,medium,good,bad",,"medium,medium,medium,medium",,"6,7,9,6",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,15,"medium,medium,good,medium",,"bad,medium,good,bad",,"medium,medium,medium,medium",,"6,6,8,5",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,16,"good,bad,bad,bad",,"good,bad,bad,medium",,"medium,medium,medium,medium",,"9,1,1,4",,robot becomes part of the main subject due to its nature. Leaving it out of frame adds an unnecessary layer of confusion
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,17,"good,good,medium,medium",,"good,good,good,good",,"good,good,medium,medium",,"9,9,6,5",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,18,"medium,medium,good,medium",,"medium,good,good,good",,"medium,medium,good,medium",,"5,6,9,6",,"In putting the subject of image number 4 on the edge and putting a bold background, it becomes an overall great compostition"
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,19,"good,good,good,good",,"good,good,good,medium",,"good,good,good,good",,"7,7,7,6",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,20,"good,good,good,medium",,"good,good,good,medium",,"good,good,medium,good",,"9,8,7,9",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,21,"good,medium,good,bad",,"good,good,good,medium",,"medium,medium,medium,medium",,"6,4,5,4",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,22,"good,medium,good,medium",,"good,medium,medium,medium",,"medium,medium,good,medium",,"7,5,8,5",,Leading lines on image 3 & 4. Done better on image 4.
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,23,"good,good,good,good",,"medium,good,good,good",,"medium,medium,good,medium",,"7,7,9,8",,(img 2) Ceiling from a low angle acts as an excellent frame to the subject.
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,24,"good,medium,good,good",,"good,medium,good,medium",,"good,bad,good,good",,"9,5,9,7",,Lack of intentionality on image 2. Images 1 3 and 4 once again use the ceiling as a frame of the subject. The far corner framing of image 4 works thanks to the leading lines of the ceiling.
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,25,"good,bad,good,medium",,"good,medium,good,medium",,"good,bad,good,medium",,"9,3,8,6",,"Image 1 lacks intentionality. Images 3 and 4 have a clear difference of depths, once again using leading lines. That's what differentiates them from image 1 and 2, which can't seem to decide between which side to focus on."
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,26,"bad,good,medium,bad",,"good,medium,good,bad",,"bad,good,bad,medium",,"6,7,5,4",,Lack of a silahouette on image 3 (Body parts covering other body parts). Image 2 works with a terrible background by including more of the far back.
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,27,"good,medium,medium,bad",,"good,good,good,medium",,"good,medium,medium,medium",,"8,5,5,4",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,28,"good,medium,bad,medium",,"good,medium,bad,bad",,"good,bad,bad,bad",,"8,4,1,3",,
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,29,"good,good,medium,good",,"good,good,good,medium",,"good,medium,medium,good",,"9,7,6,8",,The part of the background being shown really makes or breaks this picture. The building on the left side of frame ruins the balance of the composition.
+2025-09-24T10:40:39.107153,iloe@hku.hk,1,30,"good,medium,bad,medium",,"good,bad,bad,bad",,"good,bad,bad,bad",,"9,6,4,6",,Too much road on images 2-4. Character facing away from camera doesn't seem intentional
