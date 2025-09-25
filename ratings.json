@@ -9926,5 +9926,1025 @@
     ],
     "ratings": [],
     "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 1,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        8,
+        7,
+        3,
+        3
+      ]
+    ],
+    "ratings": [],
+    "comments": "image 3 composition too messy"
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 2,
+    "rankings": [
+      [
+        "bad",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        7,
+        4,
+        2,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": "aesthetics based on whether central and human size"
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 3,
+    "rankings": [
+      [
+        "medium",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        5,
+        7,
+        3,
+        3
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 4,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        7,
+        7,
+        3,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 5,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        8,
+        7,
+        3,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 6,
+    "rankings": [
+      [
+        "bad",
+        "bad",
+        "medium",
+        "good"
+      ],
+      [
+        "bad",
+        "good",
+        "good",
+        "good"
+      ],
+      [
+        "bad",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        4,
+        6,
+        5,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 7,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "bad"
+      ],
+      [
+        7,
+        6,
+        3,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 8,
+    "rankings": [
+      [
+        "medium",
+        "bad",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        5,
+        3,
+        2,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 9,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        8,
+        6,
+        3,
+        4
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 10,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "bad"
+      ],
+      [
+        8,
+        5,
+        3,
+        3
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 11,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        7,
+        8,
+        3,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 12,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        7,
+        6,
+        3,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 13,
+    "rankings": [
+      [
+        "medium",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        5,
+        6,
+        3,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 14,
+    "rankings": [
+      [
+        "good",
+        "bad",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "bad",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "bad",
+        "bad",
+        "good"
+      ],
+      [
+        7,
+        4,
+        4,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 15,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        7,
+        7,
+        3,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 16,
+    "rankings": [
+      [
+        "good",
+        "bad",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "bad",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "bad",
+        "bad",
+        "good"
+      ],
+      [
+        7,
+        3,
+        3,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 17,
+    "rankings": [
+      [
+        "medium",
+        "bad",
+        "good",
+        "good"
+      ],
+      [
+        "medium",
+        "bad",
+        "good",
+        "good"
+      ],
+      [
+        "medium",
+        "bad",
+        "good",
+        "good"
+      ],
+      [
+        5,
+        3,
+        7,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 18,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        8,
+        5,
+        3,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 19,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        8,
+        5,
+        5,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 20,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        8,
+        5,
+        4,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 21,
+    "rankings": [
+      [
+        "good",
+        "bad",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "good"
+      ],
+      [
+        8,
+        4,
+        4,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 22,
+    "rankings": [
+      [
+        "medium",
+        "bad",
+        "bad",
+        "bad"
+      ],
+      [
+        "medium",
+        "bad",
+        "bad",
+        "bad"
+      ],
+      [
+        "medium",
+        "bad",
+        "bad",
+        "bad"
+      ],
+      [
+        5,
+        3,
+        3,
+        3
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 23,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        7,
+        5,
+        3,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 24,
+    "rankings": [
+      [
+        "medium",
+        "bad",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "bad",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "bad",
+        "bad",
+        "medium"
+      ],
+      [
+        4,
+        3,
+        3,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 25,
+    "rankings": [
+      [
+        "good",
+        "bad",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "bad",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        7,
+        4,
+        3,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 26,
+    "rankings": [
+      [
+        "bad",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        4,
+        7,
+        3,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 27,
+    "rankings": [
+      [
+        "medium",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        "medium",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        5,
+        7,
+        4,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 28,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        7,
+        5,
+        3,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 29,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        7,
+        7,
+        7,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-25T10:08:13.691079",
+    "participantName": "chen1853@connect.hku.hk",
+    "answer": 1,
+    "group": 30,
+    "rankings": [
+      [
+        "medium",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        "medium",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        "medium",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        4,
+        4,
+        3,
+        3
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
   }
 ]
