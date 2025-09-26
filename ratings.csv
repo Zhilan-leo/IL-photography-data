@@ -411,3 +411,33 @@ Timestamp,Participant,Answer,Group,Q1 Rank,Q1 Score,Q2 Rank,Q2 Score,Q3 Rank,Q3 
 2025-09-25T13:05:04.649020,Hang Xu,1,28,"medium,medium,bad,good",,"medium,medium,bad,good",,"good,good,bad,medium",,"6,6,4,7",,
 2025-09-25T13:05:04.649020,Hang Xu,1,29,"good,medium,good,good",,"medium,good,good,good",,"good,good,good,medium",,"8,8,8,7",,
 2025-09-25T13:05:04.649020,Hang Xu,1,30,"good,medium,bad,bad",,"medium,good,bad,medium",,"good,medium,bad,bad",,"8,6,3,4",,
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,1,"good,good,medium,good",,"good,medium,bad,medium",,"good,medium,medium,medium",,"8,5,5,5",,image2 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,2,"good,medium,bad,good",,"good,medium,bad,good",,"medium,medium,bad,good",,"4,5,5,8",,image3 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,3,"good,medium,bad,bad",,"good,medium,medium,bad",,"medium,good,medium,medium",,"8,5,5,4",,image4 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,4,"medium,medium,good,medium",,"bad,bad,bad,good",,"good,bad,bad,good",,"9,3,3,6",,image4 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,5,"good,medium,bad,bad",,"good,medium,bad,medium",,"good,medium,bad,bad",,"8,4,1,2",,image1 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,6,"medium,medium,good,medium",,"medium,bad,good,medium",,"medium,bad,good,bad",,"4,2,7,4",,image3 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,7,"good,medium,bad,good",,"good,medium,bad,medium",,"good,medium,bad,medium",,"9,4,4,5",,image3 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,8,"good,good,bad,medium",,"good,good,bad,medium",,"good,medium,bad,medium",,"5,7,4,4",,image3 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,9,"good,medium,bad,good",,"good,medium,medium,good",,"good,bad,medium,medium",,"8,2,5,7",,image3 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,10,"medium,bad,medium,good",,"bad,medium,medium,good",,"bad,medium,good,medium",,"5,5,4,7",,image2 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,11,"medium,bad,good,medium",,"good,bad,bad,medium",,"medium,medium,good,bad",,"8,3,5,4",,image2 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,12,"good,bad,medium,bad",,"good,bad,medium,medium",,"good,bad,medium,medium",,"9,8,5,5",,image4 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,13,"good,medium,medium,medium",,"medium,medium,medium,medium",,"good,good,medium,bad",,"9,6,5,5",,image1 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,14,"good,good,medium,good",,"good,good,medium,medium",,"good,good,medium,medium",,"9,8,4,5",,image4 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,15,"good,bad,medium,bad",,"good,bad,medium,bad",,"good,bad,good,good",,"4,4,9,5",,image2 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,16,"good,medium,medium,bad",,"good,medium,good,bad",,"good,medium,bad,bad",,"9,5,5,2",,image3 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,17,"good,medium,medium,medium",,"good,medium,bad,medium",,"good,medium,bad,medium",,"9,8,4,4",,image4 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,18,"good,medium,bad,bad",,"good,medium,medium,bad",,"good,medium,medium,bad",,"9,2,2,1",,image4 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,19,"good,good,good,bad",,"medium,good,good,bad",,"good,good,medium,good",,"8,9,5,6",,image1 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,20,"good,medium,good,bad",,"medium,good,medium,bad",,"good,medium,bad,bad",,"9,4,5,4",,image2 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,21,"good,medium,bad,medium",,"good,medium,bad,good",,"good,medium,medium,medium",,"9,6,5,5",,image1 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,22,"good,bad,bad,good",,"good,bad,bad,good",,"good,medium,medium,medium",,"8,4,5,5",,image2 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,23,"bad,good,medium,good",,"medium,good,bad,medium",,"good,good,medium,good",,"7,4,5,5",,image2 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,24,"medium,good,medium,good",,"good,medium,medium,medium",,"good,good,medium,good",,"8,7,7,4",,image1 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,25,"good,bad,medium,medium",,"good,bad,good,good",,"good,bad,good,good",,"9,4,5,5",,image1 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,26,"good,good,medium,medium",,"good,medium,bad,medium",,"medium,good,medium,good",,"8,4,4,7",,image4 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,27,"medium,good,medium,good",,"medium,good,medium,medium",,"medium,bad,medium,good",,"8,5,4,5",,image2 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,28,"good,good,bad,good",,"good,medium,bad,good",,"good,medium,bad,good",,"8,4,4,4",,image3 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,29,"good,medium,medium,good",,"good,medium,medium,good",,"good,medium,medium,good",,"9,9,6,7",,image1 is the best
+2025-09-26T18:03:04.302355,zejialiu@connect.hku.hk,0,30,"good,medium,bad,good",,"good,medium,bad,good",,"good,medium,bad,medium",,"9,5,5,8",,image1 is the best
