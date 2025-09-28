@@ -19106,5 +19106,1025 @@
     ],
     "ratings": [],
     "comments": "无\n"
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 1,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "medium",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "good",
+        "medium"
+      ],
+      [
+        8,
+        7,
+        8,
+        4
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 2,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "medium",
+        "medium",
+        "good",
+        "good"
+      ],
+      [
+        7,
+        6,
+        7,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 3,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "good",
+        "good"
+      ],
+      [
+        "medium",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        9,
+        8,
+        7,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 4,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        9,
+        7,
+        6,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 5,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        7,
+        7,
+        3,
+        4
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 6,
+    "rankings": [
+      [
+        "medium",
+        "medium",
+        "good",
+        "good"
+      ],
+      [
+        "medium",
+        "medium",
+        "good",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "good",
+        "good"
+      ],
+      [
+        7,
+        6,
+        7,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 7,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "good",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "good",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        7,
+        6,
+        8,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 8,
+    "rankings": [
+      [
+        "medium",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        7,
+        7,
+        5,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 9,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        8,
+        8,
+        6,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 10,
+    "rankings": [
+      [
+        "medium",
+        "bad",
+        "good",
+        "medium"
+      ],
+      [
+        "medium",
+        "bad",
+        "good",
+        "medium"
+      ],
+      [
+        "medium",
+        "medium",
+        "good",
+        "medium"
+      ],
+      [
+        7,
+        6,
+        7,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 11,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "good",
+        "medium"
+      ],
+      [
+        "medium",
+        "medium",
+        "good",
+        "medium"
+      ],
+      [
+        "medium",
+        "medium",
+        "good",
+        "good"
+      ],
+      [
+        6,
+        7,
+        7,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 12,
+    "rankings": [
+      [
+        "medium",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        7,
+        7,
+        5,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 13,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        7,
+        7,
+        5,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 14,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        7,
+        8,
+        6,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 15,
+    "rankings": [
+      [
+        "medium",
+        "medium",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        7,
+        8,
+        8,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 16,
+    "rankings": [
+      [
+        "medium",
+        "bad",
+        "good",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        7,
+        6,
+        7,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 17,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "good",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "good",
+        "medium"
+      ],
+      [
+        7,
+        7,
+        9,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 18,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        9,
+        7,
+        4,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 19,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        9,
+        8,
+        6,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 20,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "medium",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "medium",
+        "good",
+        "bad"
+      ],
+      [
+        8,
+        7,
+        8,
+        4
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 21,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "medium",
+        "medium",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        7,
+        8,
+        7,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 22,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        "medium",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        8,
+        6,
+        4,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 23,
+    "rankings": [
+      [
+        "medium",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        7,
+        8,
+        6,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 24,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        8,
+        7,
+        6,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 25,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        8,
+        7,
+        7,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 26,
+    "rankings": [
+      [
+        "good",
+        "bad",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "medium",
+        "medium",
+        "good",
+        "good"
+      ],
+      [
+        8,
+        7,
+        7,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 27,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        "medium",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        7,
+        8,
+        7,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 28,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        8,
+        8,
+        6,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 29,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        9,
+        8,
+        7,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-09-28T10:32:56.991547",
+    "participantName": "ouyang",
+    "answer": 1,
+    "group": 30,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        8,
+        8,
+        4,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
   }
 ]
