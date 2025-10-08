@@ -26246,5 +26246,1025 @@
     ],
     "ratings": [],
     "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 1,
+    "rankings": [
+      [
+        "bad",
+        "bad",
+        "good",
+        "medium"
+      ],
+      [
+        "medium",
+        "bad",
+        "good",
+        "good"
+      ],
+      [
+        "bad",
+        "bad",
+        "good",
+        "medium"
+      ],
+      [
+        3,
+        2,
+        7,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 2,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "good"
+      ],
+      [
+        8,
+        6,
+        4,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 3,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "bad"
+      ],
+      [
+        "medium",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        7,
+        5,
+        2,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 4,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "medium",
+        "bad",
+        "bad",
+        "good"
+      ],
+      [
+        "medium",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        7,
+        5,
+        2,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 5,
+    "rankings": [
+      [
+        "medium",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        6,
+        9,
+        1,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 6,
+    "rankings": [
+      [
+        "medium",
+        "medium",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "medium",
+        "good",
+        "good"
+      ],
+      [
+        "medium",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        7,
+        6,
+        8,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 7,
+    "rankings": [
+      [
+        "medium",
+        "medium",
+        "good",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        7,
+        6,
+        8,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 8,
+    "rankings": [
+      [
+        "medium",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "bad",
+        "bad",
+        "bad"
+      ],
+      [
+        "medium",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        6,
+        5,
+        2,
+        4
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 9,
+    "rankings": [
+      [
+        "medium",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        6,
+        9,
+        4,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 10,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "good",
+        "bad"
+      ],
+      [
+        "medium",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "good",
+        "bad"
+      ],
+      [
+        5,
+        5,
+        6,
+        3
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 11,
+    "rankings": [
+      [
+        "medium",
+        "medium",
+        "good",
+        "bad"
+      ],
+      [
+        "medium",
+        "medium",
+        "medium",
+        "bad"
+      ],
+      [
+        "medium",
+        "medium",
+        "good",
+        "medium"
+      ],
+      [
+        4,
+        5,
+        8,
+        2
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 12,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        8,
+        7,
+        3,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 13,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "medium",
+        "bad"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "bad"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "bad"
+      ],
+      [
+        8,
+        6,
+        6,
+        2
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 14,
+    "rankings": [
+      [
+        "bad",
+        "good",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        6,
+        9,
+        8,
+        3
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 15,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        "medium",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        8,
+        9,
+        6,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 16,
+    "rankings": [
+      [
+        "medium",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "medium",
+        "medium",
+        "medium",
+        "good"
+      ],
+      [
+        "medium",
+        "bad",
+        "bad",
+        "medium"
+      ],
+      [
+        6,
+        4,
+        3,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 17,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        8,
+        9,
+        6,
+        3
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 18,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "bad",
+        "bad"
+      ],
+      [
+        9,
+        7,
+        1,
+        1
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 19,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "medium"
+      ],
+      [
+        8,
+        9,
+        9,
+        4
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 20,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "bad"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        9,
+        8,
+        8,
+        4
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 21,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "medium",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "good"
+      ],
+      [
+        9,
+        6,
+        6,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 22,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        9,
+        8,
+        5,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 23,
+    "rankings": [
+      [
+        "good",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "good"
+      ],
+      [
+        8,
+        6,
+        3,
+        9
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 24,
+    "rankings": [
+      [
+        "medium",
+        "medium",
+        "bad",
+        "good"
+      ],
+      [
+        "medium",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        6,
+        7,
+        3,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 25,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "good"
+      ],
+      [
+        9,
+        7,
+        5,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 26,
+    "rankings": [
+      [
+        "bad",
+        "good",
+        "bad",
+        "medium"
+      ],
+      [
+        "medium",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "bad",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        2,
+        6,
+        2,
+        5
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 27,
+    "rankings": [
+      [
+        "good",
+        "good",
+        "medium",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "good"
+      ],
+      [
+        9,
+        7,
+        6,
+        8
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 28,
+    "rankings": [
+      [
+        "medium",
+        "bad",
+        "bad",
+        "good"
+      ],
+      [
+        "good",
+        "medium",
+        "bad",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "good"
+      ],
+      [
+        7,
+        4,
+        2,
+        7
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 29,
+    "rankings": [
+      [
+        "medium",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "good",
+        "good"
+      ],
+      [
+        8,
+        9,
+        6,
+        6
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
+  },
+  {
+    "timestamp": "2025-10-08T15:32:31.031809",
+    "participantName": "cat.tuong.nguyen.bao1@gmail.com",
+    "answer": 1,
+    "group": 30,
+    "rankings": [
+      [
+        "medium",
+        "good",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "medium",
+        "medium",
+        "medium"
+      ],
+      [
+        "good",
+        "good",
+        "medium",
+        "bad"
+      ],
+      [
+        7,
+        7,
+        6,
+        4
+      ]
+    ],
+    "ratings": [],
+    "comments": ""
   }
 ]
